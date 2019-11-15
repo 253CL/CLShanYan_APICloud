@@ -1,0 +1,6 @@
+framework module CLSDKShanYanSDKModule {
+  umbrella header "CLSDKShanYanSDKModule.h"
+
+  export *
+  module * { export * }
+}
