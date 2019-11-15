@@ -10,7 +10,7 @@
 [闪验SDK APICloud插件市场：正在审核]()
 
 ## Documents
-[闪验SDK-APICloud插件集成文档](https://github.com/253CL/CLShanYan_Hbuild/wiki/闪验SDK-HBuilder插件集成文档)
+[闪验SDK-APICloud插件集成文档](https://github.com/253CL/CLShanYan_APICloud/wiki/APICloud-插件集成文档)
 
 ## 快速体验示例工程
 注：需运行真机到真机，安装SIM卡，打开手机流量开关，允许网络权限
