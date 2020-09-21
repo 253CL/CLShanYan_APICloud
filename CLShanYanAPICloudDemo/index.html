@@ -928,6 +928,7 @@
                             //处理建议：其他错误代码表示闪验通道无法继续，可以统一走开发者自己的其他登录方式，也可以对不同的错误单独处理
                             //关闭授权页
                             shanyan.finishAuthControllerCompletion();
+
                         }
 
                     } else {
@@ -940,6 +941,7 @@
                         //此处根据token调用户后台接口获取手机号，获取成功或失败后再调shanYanSDKModule.finishAuthControllerCompletion()关闭页面
                         // //关闭授权页
                         shanyan.finishAuthControllerCompletion();
+                        //shanyan.hideLoading();
 
                     }
 
